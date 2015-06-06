@@ -1,0 +1,86 @@
+\begin{theindex}
+
+  \item ImagePanel \textit{(module)}, \hyperpage{2--11}
+    \subitem ImagePanel.ImagePanel \textit{(class)}, \hyperpage{2--11}
+      \subsubitem ImagePanel.ImagePanel.AutoRefresh \textit{(method)}, 
+		\hyperpage{2}
+      \subsubitem ImagePanel.ImagePanel.AutoZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.Enlarge \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.GetBestZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.GetConfig \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.GetImageSize \textit{(method)}, 
+		\hyperpage{5}
+      \subsubitem ImagePanel.ImagePanel.GetMaxScrollX \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetMaxScrollY \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetMaxZoom \textit{(method)}, 
+		\hyperpage{5}
+      \subsubitem ImagePanel.ImagePanel.GetMinScrollX \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetMinScrollY \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetMinZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.GetScrollX \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetScrollY \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.GetSizeConfig \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.GetXPositionConfig \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.GetYPositionConfig \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.GetZoom \textit{(method)}, 
+		\hyperpage{5}
+      \subsubitem ImagePanel.ImagePanel.IsDraggable \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.isOnBottom \textit{(method)}, 
+		\hyperpage{7}
+      \subsubitem ImagePanel.ImagePanel.isOnLeft \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.isOnRight \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.isOnTop \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.ManualRefresh \textit{(method)}, 
+		\hyperpage{2}
+      \subsubitem ImagePanel.ImagePanel.MoveX \textit{(method)}, 
+		\hyperpage{5}
+      \subsubitem ImagePanel.ImagePanel.MoveY \textit{(method)}, 
+		\hyperpage{5}
+      \subsubitem ImagePanel.ImagePanel.RefreshImage \textit{(method)}, 
+		\hyperpage{8}
+      \subsubitem ImagePanel.ImagePanel.ScrollX \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.ScrollXY \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.ScrollY \textit{(method)}, 
+		\hyperpage{6}
+      \subsubitem ImagePanel.ImagePanel.SetAutoRefresh \textit{(method)}, 
+		\hyperpage{2}
+      \subsubitem ImagePanel.ImagePanel.SetConfig \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.SetImage \textit{(method)}, 
+		\hyperpage{8}
+      \subsubitem ImagePanel.ImagePanel.SetManualRefresh \textit{(method)}, 
+		\hyperpage{2}
+      \subsubitem ImagePanel.ImagePanel.SetMaxZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.SetMinZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.SetZoom \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.SetZoomStep \textit{(method)}, 
+		\hyperpage{3}
+      \subsubitem ImagePanel.ImagePanel.Shrink \textit{(method)}, 
+		\hyperpage{4}
+      \subsubitem ImagePanel.ImagePanel.ZoomWheel \textit{(method)}, 
+		\hyperpage{3}
+
+\end{theindex}
