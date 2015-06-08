@@ -1,5 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 *-*
+"""
+@author: López Ricardo Ezequiel
+@license: GNU GENERAL PUBLIC LICENSE
+@contact: mail@lopezezequiel.com
+"""
+
 
 
 ########################################################################
@@ -314,7 +320,7 @@ class ImagePanel(wx.Panel):
 	def SetConfig(self, config):
 		"""It allow to configurate panel behaviour
 		@param config: bit mask
-		@type stype: int
+		@type config: int
 		"""
 		self._validate(config, int)
 		self.config = config
@@ -376,8 +382,8 @@ class ImagePanel(wx.Panel):
 	
 	def SetMaxZoom(self, maxZoom):
 		"""Set percent of max zoom
-		@param zoomStep: percent of max zoom
-		@type zoomStep: float
+		@param maxZoom: percent of max zoom
+		@type maxZoom: float
 		"""
 		self._validate(maxZoom, (int, float))
 		self.maxZoom = float(self.minZoom if maxZoom < minZoom else self.maxZoom)
@@ -385,8 +391,8 @@ class ImagePanel(wx.Panel):
 		
 	def SetMinZoom(self, minZoom):
 		"""Set percent of min zoom
-		@param zoomStep: percent of min zoom 
-		@type zoomStep: float
+		@param minZoom: percent of min zoom 
+		@type minZoom: float
 		"""
 		self._validate(minZoom, (int, float))
 		self.minZoom = float(0 if minZoom < 0 else (minZoom if minZoom < self.maxZoom else self.maxZoom))
@@ -394,8 +400,8 @@ class ImagePanel(wx.Panel):
 	
 	def SetZoom(self, zoom):
 		"""Set percent of zoom
-		@param zoomStep: percent of zoom
-		@type zoomStep: float
+		@param zoom: percent of zoom
+		@type zoom: float
 		"""
 		self._validate(zoom, (int, float))
 		self.zoom = float(self.minZoom if zoom < self.minZoom else (self.maxZoom if zoom > self.maxZoom else zoom) )

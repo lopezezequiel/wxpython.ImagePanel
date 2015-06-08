@@ -25,11 +25,11 @@
       \subsubitem ImagePanel.ImagePanel.GetMinScrollY \textit{(method)}, 
 		\hyperpage{7}
       \subsubitem ImagePanel.ImagePanel.GetMinZoom \textit{(method)}, 
-		\hyperpage{4}
+		\hyperpage{5}
       \subsubitem ImagePanel.ImagePanel.GetScrollX \textit{(method)}, 
 		\hyperpage{7}
       \subsubitem ImagePanel.ImagePanel.GetScrollY \textit{(method)}, 
-		\hyperpage{7}
+		\hyperpage{8}
       \subsubitem ImagePanel.ImagePanel.GetSizeConfig \textit{(method)}, 
 		\hyperpage{3}
       \subsubitem ImagePanel.ImagePanel.GetXPositionConfig \textit{(method)}, 
@@ -47,9 +47,9 @@
       \subsubitem ImagePanel.ImagePanel.isOnRight \textit{(method)}, 
 		\hyperpage{6}
       \subsubitem ImagePanel.ImagePanel.isOnTop \textit{(method)}, 
-		\hyperpage{6}
+		\hyperpage{7}
       \subsubitem ImagePanel.ImagePanel.ManualRefresh \textit{(method)}, 
-		\hyperpage{2}
+		\hyperpage{3}
       \subsubitem ImagePanel.ImagePanel.MoveX \textit{(method)}, 
 		\hyperpage{5}
       \subsubitem ImagePanel.ImagePanel.MoveY \textit{(method)}, 
@@ -77,7 +77,7 @@
       \subsubitem ImagePanel.ImagePanel.SetZoom \textit{(method)}, 
 		\hyperpage{4}
       \subsubitem ImagePanel.ImagePanel.SetZoomStep \textit{(method)}, 
-		\hyperpage{3}
+		\hyperpage{4}
       \subsubitem ImagePanel.ImagePanel.Shrink \textit{(method)}, 
 		\hyperpage{4}
       \subsubitem ImagePanel.ImagePanel.ZoomWheel \textit{(method)}, 
